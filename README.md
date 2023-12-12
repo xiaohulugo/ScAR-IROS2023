@@ -1,4 +1,4 @@
-# ScAR
+# ScAR: Scaling-Adversarial-Robustness-for-LiDAR-Object-Detection
 Official implementation of the IROS2023 paper "ScAR: Scaling Adversarial Robustness for LiDAR Object Detection". https://arxiv.org/abs/2312.03085.
 ![image](https://github.com/xiaohulugo/ScAR/blob/main/scar_framework.png)
 
