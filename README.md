@@ -17,7 +17,7 @@ Performance:
 ---
 ![image](https://github.com/xiaohulugo/ScAR/blob/main/scar_performance.png)
 
-Notice: attack.py and scar.py can be applied on any baselines, you can simply modified the code to adapt to your method.
+Notice: attack.py and scar.py can be applied to any baselines, you can simply modified the code to adapt to your method.
 ---
 
 Citation:
