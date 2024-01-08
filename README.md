@@ -9,9 +9,10 @@ Prerequisites:
 Usage:
 ---
 1. Follow the instruction of PCDet to install the pre-requirements.
-2. Use the attack.py file to generate three types of adversarial attacks: model-aware attack, distribution-aware attack, and blind attack.
-3. Use the scar.py file to generate adversarial robust training samples.
-4. Test the baseline and the scar-trained baseline on three types of attacked dataset.
+2. Choose a 3D detector, and train it on a dataset.
+3. Use the attack.py file to generate three types of adversarial attacks: model-aware attack, distribution-aware attack, and blind attack.
+4. Use the scar.py file to generate adversarial robust training samples.
+5. Test the baseline and the scar-trained baseline on three types of attacked dataset.
 
 Performance:
 ---
