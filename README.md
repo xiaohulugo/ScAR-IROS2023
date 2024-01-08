@@ -25,10 +25,12 @@ Citation:
 Please cite the following paper if this you feel this code helpful.
 
 ```
-@article{lu2023scar,
-title={ScAR: Scaling Adversarial Robustness for LiDAR Object Detection},
-author={Xiaohu Lu and Hayder Radha},
-journal={arXiv preprint arXiv:2312.03085},
-year={2023},
+@inproceedings{lu2023scar,
+  title={ScAR: Scaling Adversarial Robustness for LiDAR Object Detection},
+  author={Lu, Xiaohu and Radha, Hayder},
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={5758--5764},
+  year={2023},
+  organization={IEEE}
 }
 ```
